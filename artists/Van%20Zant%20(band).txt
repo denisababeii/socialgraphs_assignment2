@@ -1,0 +1,1 @@
+{"batchcomplete":"","query":{"pages":{"75492089":{"pageid":75492089,"ns":0,"title":"Van Zant (band)","revisions":[{"slots":{"main":{"contentmodel":"wikitext","contentformat":"text/x-wiki","*":"#REDIRECT [[Van Zant (duo)]]\n\n{{Redirect category shell|\n{{R from move}}\n}}"}}}]}}}}
