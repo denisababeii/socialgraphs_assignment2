@@ -1,0 +1,1870 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="score" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="weezer" />
+    <node id="glenn frey" />
+    <node id="grand funk railroad" />
+    <node id="fleetwood mac" />
+    <node id="seether" />
+    <node id="the tragically hip" />
+    <node id="the alan parsons project" />
+    <node id="coheed and cambria" />
+    <node id="primus (band)|primus" />
+    <node id="collective soul" />
+    <node id="slipknot (band)|slipknot" />
+    <node id="black sabbath" />
+    <node id="metallica" />
+    <node id="lifehouse (band)|lifehouse" />
+    <node id="sheryl crow" />
+    <node id="lou reed" />
+    <node id="sublime (band)|sublime" />
+    <node id="boys like girls" />
+    <node id="jimi hendrix" />
+    <node id="bullet for my valentine" />
+    <node id="jefferson starship" />
+    <node id="catfish and the bottlemen" />
+    <node id="toto (band)|toto" />
+    <node id="small faces" />
+    <node id="highly suspect" />
+    <node id="slade" />
+    <node id="modest mouse" />
+    <node id="kaiser chiefs" />
+    <node id="tenacious d" />
+    <node id="vampire weekend" />
+    <node id="limp bizkit" />
+    <node id="the guess who" />
+    <node id="tom petty and the heartbreakers" />
+    <node id="the cars" />
+    <node id="genesis (band)|genesis" />
+    <node id="simple plan" />
+    <node id="steely dan" />
+    <node id="faces (band)|faces" />
+    <node id="system of a down" />
+    <node id="chubby checker" />
+    <node id="thin lizzy" />
+    <node id="no doubt" />
+    <node id="mot\u00f6rhead" />
+    <node id="the boxtones" />
+    <node id="huey lewis and the news" />
+    <node id="interpol (band)|interpol" />
+    <node id="bruce springsteen" />
+    <node id="death cab for cutie" />
+    <node id="creed (band)|creed" />
+    <node id="christopher cross" />
+    <node id="the outfield" />
+    <node id="sepultura" />
+    <node id="judas priest" />
+    <node id="april wine" />
+    <node id="men at work" />
+    <node id="stevie ray vaughan|stevie ray vaughan and double trouble" />
+    <node id="the killers" />
+    <node id="little richard" />
+    <node id="thirty seconds to mars" />
+    <node id="manfred mann" />
+    <node id="muse (band)|muse" />
+    <node id="staind" />
+    <node id="don henley" />
+    <node id="ted nugent" />
+    <node id="the rolling stones" />
+    <node id="steve miller band" />
+    <node id="blue october" />
+    <node id="harry chapin" />
+    <node id="living colour" />
+    <node id="edgar winter|the edgar winter group" />
+    <node id="the fixx" />
+    <node id="the mamas &amp; the papas" />
+    <node id="green day" />
+    <node id="roy orbison" />
+    <node id="the band" />
+    <node id="10 years (band)|10 years" />
+    <node id="led zeppelin" />
+    <node id="george thorogood|george thorogood and the destroyers" />
+    <node id="dave matthews band" />
+    <node id="bush (british band)|bush" />
+    <node id="u2" />
+    <node id="thousand foot krutch" />
+    <node id="billy squier" />
+    <node id="great white" />
+    <node id="jefferson airplane" />
+    <node id="pink floyd" />
+    <node id="breaking benjamin" />
+    <node id="days of the new" />
+    <node id="anthrax (american band)|anthrax" />
+    <node id="kiss (band)|kiss" />
+    <node id="our lady peace" />
+    <node id="beastie boys" />
+    <node id="good charlotte" />
+    <node id="simon &amp; garfunkel" />
+    <node id="keane (band)|keane" />
+    <node id="slayer" />
+    <node id="bob seger|bob seger &amp; the silver bullet band" />
+    <node id="tommy james and the shondells" />
+    <node id="the hollies" />
+    <node id="megadeth" />
+    <node id="the cranberries" />
+    <node id="panic! at the disco" />
+    <node id="skid row (american band)|skid row" />
+    <node id="rob zombie" />
+    <node id="the used" />
+    <node id="accept (band)|accept" />
+    <node id="gin blossoms" />
+    <node id="the sweet|sweet" />
+    <node id="the allman brothers band" />
+    <node id="damn yankees (band)|damn yankees" />
+    <node id="shakin' stevens" />
+    <node id="frank zappa" />
+    <node id="the go-go's" />
+    <node id="foals (band)|foals" />
+    <node id="sting (musician)|sting" />
+    <node id="x (american band)" />
+    <node id="sublime with rome" />
+    <node id="sum 41" />
+    <node id="zz top" />
+    <node id="john lennon" />
+    <node id="flyleaf (band)|flyleaf" />
+    <node id="crowded house" />
+    <node id="eddie money" />
+    <node id="inxs" />
+    <node id="travis (band)|travis" />
+    <node id="fall out boy" />
+    <node id="silverchair" />
+    <node id="starset" />
+    <node id="the pretty reckless" />
+    <node id="hinder" />
+    <node id="journey (band)|journey" />
+    <node id="pat benatar" />
+    <node id="the all-american rejects" />
+    <node id="sonic youth" />
+    <node id="canned heat" />
+    <node id="alter bridge" />
+    <node id="iggy pop" />
+    <node id="rod stewart" />
+    <node id="smash mouth" />
+    <node id="mike and the mechanics|mike + the mechanics" />
+    <node id="supertramp" />
+    <node id="hole (band)|hole" />
+    <node id="jimmy eat world" />
+    <node id="drowning pool" />
+    <node id="chuck berry" />
+    <node id="the presidents of the united states of america (band)|the presidents of the united states of america" />
+    <node id="live (band)|live" />
+    <node id="the kinks" />
+    <edge source="weezer" target="the all-american rejects">
+      <data key="d0">0.6656628231980557</data>
+    </edge>
+    <edge source="weezer" target="black sabbath">
+      <data key="d0">0.659611191712816</data>
+    </edge>
+    <edge source="weezer" target="breaking benjamin">
+      <data key="d0">0.8179809482954039</data>
+    </edge>
+    <edge source="weezer" target="the cars">
+      <data key="d0">0.5881596285273244</data>
+    </edge>
+    <edge source="weezer" target="fall out boy">
+      <data key="d0">0.4760823974194892</data>
+    </edge>
+    <edge source="weezer" target="green day">
+      <data key="d0">0.4817542925639864</data>
+    </edge>
+    <edge source="weezer" target="jimmy eat world">
+      <data key="d0">0.5413903328552763</data>
+    </edge>
+    <edge source="weezer" target="kiss (band)|kiss">
+      <data key="d0">0.7051211349080369</data>
+    </edge>
+    <edge source="weezer" target="metallica">
+      <data key="d0">0.6767668891724372</data>
+    </edge>
+    <edge source="weezer" target="panic! at the disco">
+      <data key="d0">0.4360832357509955</data>
+    </edge>
+    <edge source="weezer" target="lou reed">
+      <data key="d0">0.6075242971026111</data>
+    </edge>
+    <edge source="weezer" target="simple plan">
+      <data key="d0">0.5332260792376997</data>
+    </edge>
+    <edge source="weezer" target="slayer">
+      <data key="d0">0.7890708749157018</data>
+    </edge>
+    <edge source="weezer" target="sonic youth">
+      <data key="d0">0.5989644020931982</data>
+    </edge>
+    <edge source="weezer" target="sum 41">
+      <data key="d0">0.27603774205223053</data>
+    </edge>
+    <edge source="weezer" target="tenacious d">
+      <data key="d0">0.5153431777738086</data>
+    </edge>
+    <edge source="weezer" target="toto (band)|toto">
+      <data key="d0">0.747601180443932</data>
+    </edge>
+    <edge source="glenn frey" target="don henley">
+      <data key="d0">0.627776460260605</data>
+    </edge>
+    <edge source="glenn frey" target="bob seger|bob seger &amp; the silver bullet band">
+      <data key="d0">0.4456406055089043</data>
+    </edge>
+    <edge source="grand funk railroad" target="frank zappa">
+      <data key="d0">0.5382047746323639</data>
+    </edge>
+    <edge source="grand funk railroad" target="kiss (band)|kiss">
+      <data key="d0">0.8785134884820769</data>
+    </edge>
+    <edge source="grand funk railroad" target="bob seger|bob seger &amp; the silver bullet band">
+      <data key="d0">0.3809730535889766</data>
+    </edge>
+    <edge source="fleetwood mac" target="pat benatar">
+      <data key="d0">0.7124239577085452</data>
+    </edge>
+    <edge source="fleetwood mac" target="black sabbath">
+      <data key="d0">0.8303848129612867</data>
+    </edge>
+    <edge source="fleetwood mac" target="sheryl crow">
+      <data key="d0">0.5764146529728108</data>
+    </edge>
+    <edge source="fleetwood mac" target="crowded house">
+      <data key="d0">0.653155491420798</data>
+    </edge>
+    <edge source="fleetwood mac" target="tom petty and the heartbreakers">
+      <data key="d0">0.4754833177121631</data>
+    </edge>
+    <edge source="fleetwood mac" target="rod stewart">
+      <data key="d0">0.5073792376985846</data>
+    </edge>
+    <edge source="fleetwood mac" target="jimi hendrix">
+      <data key="d0">0.7061082512870572</data>
+    </edge>
+    <edge source="fleetwood mac" target="the rolling stones">
+      <data key="d0">0.8129455046915142</data>
+    </edge>
+    <edge source="fleetwood mac" target="don henley">
+      <data key="d0">0.4189614506190884</data>
+    </edge>
+    <edge source="fleetwood mac" target="hole (band)|hole">
+      <data key="d0">0.535454934325418</data>
+    </edge>
+    <edge source="fleetwood mac" target="live (band)|live">
+      <data key="d0">0.7992699029779167</data>
+    </edge>
+    <edge source="fleetwood mac" target="men at work">
+      <data key="d0">0.9348106712661808</data>
+    </edge>
+    <edge source="fleetwood mac" target="vampire weekend">
+      <data key="d0">0.7394247927046567</data>
+    </edge>
+    <edge source="seether" target="breaking benjamin">
+      <data key="d0">0.42141737926741396</data>
+    </edge>
+    <edge source="seether" target="bullet for my valentine">
+      <data key="d0">0.6542480586403598</data>
+    </edge>
+    <edge source="seether" target="drowning pool">
+      <data key="d0">0.5257597012746563</data>
+    </edge>
+    <edge source="seether" target="flyleaf (band)|flyleaf">
+      <data key="d0">0.3190894217576916</data>
+    </edge>
+    <edge source="seether" target="staind">
+      <data key="d0">0.760622424065176</data>
+    </edge>
+    <edge source="seether" target="starset">
+      <data key="d0">0.5338426308495758</data>
+    </edge>
+    <edge source="the tragically hip" target="the guess who">
+      <data key="d0">0.3385046801774987</data>
+    </edge>
+    <edge source="the tragically hip" target="bruce springsteen">
+      <data key="d0">0.6923834199771919</data>
+    </edge>
+    <edge source="the alan parsons project" target="pink floyd">
+      <data key="d0">0.8145290782886748</data>
+    </edge>
+    <edge source="the alan parsons project" target="the hollies">
+      <data key="d0">0.3108230958230551</data>
+    </edge>
+    <edge source="the alan parsons project" target="christopher cross">
+      <data key="d0">0.16706279755932807</data>
+    </edge>
+    <edge source="the alan parsons project" target="mike and the mechanics|mike + the mechanics">
+      <data key="d0">0.42127309546229075</data>
+    </edge>
+    <edge source="coheed and cambria" target="the used">
+      <data key="d0">0.4722377797477275</data>
+    </edge>
+    <edge source="coheed and cambria" target="slipknot (band)|slipknot">
+      <data key="d0">0.4726900011951418</data>
+    </edge>
+    <edge source="coheed and cambria" target="zz top">
+      <data key="d0">0.5960555330467746</data>
+    </edge>
+    <edge source="coheed and cambria" target="primus (band)|primus">
+      <data key="d0">0.4128857009770661</data>
+    </edge>
+    <edge source="coheed and cambria" target="led zeppelin">
+      <data key="d0">0.9008992223653016</data>
+    </edge>
+    <edge source="coheed and cambria" target="pink floyd">
+      <data key="d0">0.7320658390767216</data>
+    </edge>
+    <edge source="coheed and cambria" target="thin lizzy">
+      <data key="d0">0.6720607229196348</data>
+    </edge>
+    <edge source="primus (band)|primus" target="anthrax (american band)|anthrax">
+      <data key="d0">0.568364107580351</data>
+    </edge>
+    <edge source="primus (band)|primus" target="black sabbath">
+      <data key="d0">0.5526128911958321</data>
+    </edge>
+    <edge source="primus (band)|primus" target="limp bizkit">
+      <data key="d0">0.4547922700450101</data>
+    </edge>
+    <edge source="primus (band)|primus" target="metallica">
+      <data key="d0">0.5298045518321981</data>
+    </edge>
+    <edge source="primus (band)|primus" target="pink floyd">
+      <data key="d0">0.5163198831125476</data>
+    </edge>
+    <edge source="primus (band)|primus" target="u2">
+      <data key="d0">0.7541671863915157</data>
+    </edge>
+    <edge source="primus (band)|primus" target="slayer">
+      <data key="d0">0.4637884090348421</data>
+    </edge>
+    <edge source="primus (band)|primus" target="frank zappa">
+      <data key="d0">0.7057051846826583</data>
+    </edge>
+    <edge source="collective soul" target="gin blossoms">
+      <data key="d0">0.3032701656322574</data>
+    </edge>
+    <edge source="collective soul" target="hinder">
+      <data key="d0">0.36849578377079373</data>
+    </edge>
+    <edge source="collective soul" target="lifehouse (band)|lifehouse">
+      <data key="d0">0.7064245758164795</data>
+    </edge>
+    <edge source="collective soul" target="live (band)|live">
+      <data key="d0">0.3692720336308166</data>
+    </edge>
+    <edge source="slipknot (band)|slipknot" target="anthrax (american band)|anthrax">
+      <data key="d0">0.5209085419923932</data>
+    </edge>
+    <edge source="slipknot (band)|slipknot" target="beastie boys">
+      <data key="d0">0.6360086949276855</data>
+    </edge>
+    <edge source="slipknot (band)|slipknot" target="black sabbath">
+      <data key="d0">0.48252644972548797</data>
+    </edge>
+    <edge source="slipknot (band)|slipknot" target="bullet for my valentine">
+      <data key="d0">0.4013230682182306</data>
+    </edge>
+    <edge source="slipknot (band)|slipknot" target="drowning pool">
+      <data key="d0">0.5476724752054288</data>
+    </edge>
+    <edge source="slipknot (band)|slipknot" target="jimi hendrix">
+      <data key="d0">0.6192692372523569</data>
+    </edge>
+    <edge source="slipknot (band)|slipknot" target="judas priest">
+      <data key="d0">0.5549325669728487</data>
+    </edge>
+    <edge source="slipknot (band)|slipknot" target="kiss (band)|kiss">
+      <data key="d0">0.6067484271595651</data>
+    </edge>
+    <edge source="slipknot (band)|slipknot" target="led zeppelin">
+      <data key="d0">0.5652324975552006</data>
+    </edge>
+    <edge source="slipknot (band)|slipknot" target="limp bizkit">
+      <data key="d0">0.42960049275295986</data>
+    </edge>
+    <edge source="slipknot (band)|slipknot" target="megadeth">
+      <data key="d0">0.5531151942616503</data>
+    </edge>
+    <edge source="slipknot (band)|slipknot" target="metallica">
+      <data key="d0">0.44115948643585223</data>
+    </edge>
+    <edge source="slipknot (band)|slipknot" target="sepultura">
+      <data key="d0">0.47280869441897244</data>
+    </edge>
+    <edge source="slipknot (band)|slipknot" target="slayer">
+      <data key="d0">0.5213323468353249</data>
+    </edge>
+    <edge source="slipknot (band)|slipknot" target="bruce springsteen">
+      <data key="d0">0.827161216222137</data>
+    </edge>
+    <edge source="slipknot (band)|slipknot" target="sublime with rome">
+      <data key="d0">0.9257989463041822</data>
+    </edge>
+    <edge source="slipknot (band)|slipknot" target="system of a down">
+      <data key="d0">0.2604690548661882</data>
+    </edge>
+    <edge source="black sabbath" target="anthrax (american band)|anthrax">
+      <data key="d0">0.5034856364082132</data>
+    </edge>
+    <edge source="black sabbath" target="led zeppelin">
+      <data key="d0">0.5216489335108682</data>
+    </edge>
+    <edge source="black sabbath" target="judas priest">
+      <data key="d0">0.318304647192134</data>
+    </edge>
+    <edge source="black sabbath" target="kiss (band)|kiss">
+      <data key="d0">0.45088671793271407</data>
+    </edge>
+    <edge source="black sabbath" target="ted nugent">
+      <data key="d0">0.507235435339786</data>
+    </edge>
+    <edge source="black sabbath" target="journey (band)|journey">
+      <data key="d0">0.6989027026162997</data>
+    </edge>
+    <edge source="black sabbath" target="john lennon">
+      <data key="d0">0.6626316687332999</data>
+    </edge>
+    <edge source="black sabbath" target="great white">
+      <data key="d0">0.7225978419264794</data>
+    </edge>
+    <edge source="black sabbath" target="metallica">
+      <data key="d0">0.34720218623267574</data>
+    </edge>
+    <edge source="black sabbath" target="thin lizzy">
+      <data key="d0">0.5557683408888663</data>
+    </edge>
+    <edge source="black sabbath" target="mot\u00f6rhead">
+      <data key="d0">0.6324639660441859</data>
+    </edge>
+    <edge source="black sabbath" target="megadeth">
+      <data key="d0">0.3311504358746241</data>
+    </edge>
+    <edge source="black sabbath" target="slayer">
+      <data key="d0">0.35413362115268787</data>
+    </edge>
+    <edge source="black sabbath" target="jimi hendrix">
+      <data key="d0">0.6327656461742741</data>
+    </edge>
+    <edge source="black sabbath" target="sepultura">
+      <data key="d0">0.36453812803406493</data>
+    </edge>
+    <edge source="black sabbath" target="system of a down">
+      <data key="d0">0.43126204861863593</data>
+    </edge>
+    <edge source="black sabbath" target="pink floyd">
+      <data key="d0">0.5597818494203257</data>
+    </edge>
+    <edge source="black sabbath" target="sonic youth">
+      <data key="d0">0.7241153475993652</data>
+    </edge>
+    <edge source="black sabbath" target="drowning pool">
+      <data key="d0">0.5901952470401549</data>
+    </edge>
+    <edge source="black sabbath" target="silverchair">
+      <data key="d0">0.5765214973200653</data>
+    </edge>
+    <edge source="black sabbath" target="slade">
+      <data key="d0">0.5474523041492994</data>
+    </edge>
+    <edge source="black sabbath" target="staind">
+      <data key="d0">0.5161110506821479</data>
+    </edge>
+    <edge source="black sabbath" target="the sweet|sweet">
+      <data key="d0">0.655696319300743</data>
+    </edge>
+    <edge source="black sabbath" target="frank zappa">
+      <data key="d0">0.6793583565735113</data>
+    </edge>
+    <edge source="black sabbath" target="rob zombie">
+      <data key="d0">0.540068616413713</data>
+    </edge>
+    <edge source="metallica" target="accept (band)|accept">
+      <data key="d0">0.7677648460213229</data>
+    </edge>
+    <edge source="metallica" target="anthrax (american band)|anthrax">
+      <data key="d0">0.523216899123089</data>
+    </edge>
+    <edge source="metallica" target="bullet for my valentine">
+      <data key="d0">0.5549919890482191</data>
+    </edge>
+    <edge source="metallica" target="creed (band)|creed">
+      <data key="d0">0.6190167554458217</data>
+    </edge>
+    <edge source="metallica" target="days of the new">
+      <data key="d0">0.7957030352035088</data>
+    </edge>
+    <edge source="metallica" target="drowning pool">
+      <data key="d0">0.6397685564507418</data>
+    </edge>
+    <edge source="metallica" target="fall out boy">
+      <data key="d0">0.7126643405969311</data>
+    </edge>
+    <edge source="metallica" target="jimi hendrix">
+      <data key="d0">0.6137394211036915</data>
+    </edge>
+    <edge source="metallica" target="hole (band)|hole">
+      <data key="d0">0.870676064836182</data>
+    </edge>
+    <edge source="metallica" target="judas priest">
+      <data key="d0">0.4921039801354249</data>
+    </edge>
+    <edge source="metallica" target="kiss (band)|kiss">
+      <data key="d0">0.5001771211337518</data>
+    </edge>
+    <edge source="metallica" target="led zeppelin">
+      <data key="d0">0.4119361664311827</data>
+    </edge>
+    <edge source="metallica" target="limp bizkit">
+      <data key="d0">0.5813806793085305</data>
+    </edge>
+    <edge source="metallica" target="megadeth">
+      <data key="d0">0.5284209383857259</data>
+    </edge>
+    <edge source="metallica" target="slayer">
+      <data key="d0">0.3455695087002948</data>
+    </edge>
+    <edge source="metallica" target="skid row (american band)|skid row">
+      <data key="d0">0.5404123634103706</data>
+    </edge>
+    <edge source="metallica" target="thin lizzy">
+      <data key="d0">0.6836680576908511</data>
+    </edge>
+    <edge source="metallica" target="the rolling stones">
+      <data key="d0">0.8717175428317272</data>
+    </edge>
+    <edge source="metallica" target="lou reed">
+      <data key="d0">0.7987420023541358</data>
+    </edge>
+    <edge source="metallica" target="pink floyd">
+      <data key="d0">0.6355968958793254</data>
+    </edge>
+    <edge source="metallica" target="ted nugent">
+      <data key="d0">0.6087285140919425</data>
+    </edge>
+    <edge source="metallica" target="mot\u00f6rhead">
+      <data key="d0">0.6446969228628026</data>
+    </edge>
+    <edge source="metallica" target="sum 41">
+      <data key="d0">0.5525400113431562</data>
+    </edge>
+    <edge source="metallica" target="staind">
+      <data key="d0">0.4718878047073498</data>
+    </edge>
+    <edge source="metallica" target="sepultura">
+      <data key="d0">0.4003048660404551</data>
+    </edge>
+    <edge source="metallica" target="system of a down">
+      <data key="d0">0.4154648794280258</data>
+    </edge>
+    <edge source="metallica" target="tenacious d">
+      <data key="d0">0.6256647503128864</data>
+    </edge>
+    <edge source="metallica" target="rob zombie">
+      <data key="d0">0.5346824646440996</data>
+    </edge>
+    <edge source="sheryl crow" target="don henley">
+      <data key="d0">0.40347152296390665</data>
+    </edge>
+    <edge source="sheryl crow" target="sting (musician)|sting">
+      <data key="d0">0.47419792719409337</data>
+    </edge>
+    <edge source="sheryl crow" target="john lennon">
+      <data key="d0">0.694332101221022</data>
+    </edge>
+    <edge source="sheryl crow" target="crowded house">
+      <data key="d0">0.6574813186723125</data>
+    </edge>
+    <edge source="sheryl crow" target="steely dan">
+      <data key="d0">0.6699677881174751</data>
+    </edge>
+    <edge source="lou reed" target="the killers">
+      <data key="d0">0.4483385695785622</data>
+    </edge>
+    <edge source="lou reed" target="little richard">
+      <data key="d0">0.5525452263891961</data>
+    </edge>
+    <edge source="lou reed" target="iggy pop">
+      <data key="d0">0.48167920416537835</data>
+    </edge>
+    <edge source="lou reed" target="bob seger|bob seger &amp; the silver bullet band">
+      <data key="d0">0.6835730249612058</data>
+    </edge>
+    <edge source="lou reed" target="sonic youth">
+      <data key="d0">0.4099232542093346</data>
+    </edge>
+    <edge source="lou reed" target="u2">
+      <data key="d0">0.6547201151782036</data>
+    </edge>
+    <edge source="sublime (band)|sublime" target="beastie boys">
+      <data key="d0">0.6031497922829854</data>
+    </edge>
+    <edge source="sublime (band)|sublime" target="jimi hendrix">
+      <data key="d0">0.7870824262433053</data>
+    </edge>
+    <edge source="sublime (band)|sublime" target="highly suspect">
+      <data key="d0">0.2576849948093789</data>
+    </edge>
+    <edge source="sublime (band)|sublime" target="no doubt">
+      <data key="d0">0.46014584744896325</data>
+    </edge>
+    <edge source="sublime (band)|sublime" target="sublime with rome">
+      <data key="d0">0.41213035952349353</data>
+    </edge>
+    <edge source="sublime (band)|sublime" target="frank zappa">
+      <data key="d0">0.5878696404765064</data>
+    </edge>
+    <edge source="boys like girls" target="the all-american rejects">
+      <data key="d0">0.4263607478328676</data>
+    </edge>
+    <edge source="boys like girls" target="good charlotte">
+      <data key="d0">0.4655907900561035</data>
+    </edge>
+    <edge source="boys like girls" target="fall out boy">
+      <data key="d0">0.8071419096336898</data>
+    </edge>
+    <edge source="boys like girls" target="simple plan">
+      <data key="d0">0.42625393394339806</data>
+    </edge>
+    <edge source="boys like girls" target="jimmy eat world">
+      <data key="d0">0.5587752640721061</data>
+    </edge>
+    <edge source="jimi hendrix" target="beastie boys">
+      <data key="d0">0.8621534564859489</data>
+    </edge>
+    <edge source="jimi hendrix" target="chuck berry">
+      <data key="d0">0.6968895215168528</data>
+    </edge>
+    <edge source="jimi hendrix" target="canned heat">
+      <data key="d0">0.9413884408670968</data>
+    </edge>
+    <edge source="jimi hendrix" target="chubby checker">
+      <data key="d0">0.8994212877827086</data>
+    </edge>
+    <edge source="jimi hendrix" target="little richard">
+      <data key="d0">0.46044194398734317</data>
+    </edge>
+    <edge source="jimi hendrix" target="john lennon">
+      <data key="d0">0.476337646617514</data>
+    </edge>
+    <edge source="jimi hendrix" target="frank zappa">
+      <data key="d0">0.41870727685559517</data>
+    </edge>
+    <edge source="jimi hendrix" target="jefferson airplane">
+      <data key="d0">0.7008448014396083</data>
+    </edge>
+    <edge source="jimi hendrix" target="kiss (band)|kiss">
+      <data key="d0">0.6324057443684756</data>
+    </edge>
+    <edge source="jimi hendrix" target="judas priest">
+      <data key="d0">0.5113212042901544</data>
+    </edge>
+    <edge source="jimi hendrix" target="highly suspect">
+      <data key="d0">0.9279663330597632</data>
+    </edge>
+    <edge source="jimi hendrix" target="eddie money">
+      <data key="d0">0.8160915147280011</data>
+    </edge>
+    <edge source="jimi hendrix" target="muse (band)|muse">
+      <data key="d0">0.6718824800626475</data>
+    </edge>
+    <edge source="jimi hendrix" target="ted nugent">
+      <data key="d0">0.5413482613047637</data>
+    </edge>
+    <edge source="jimi hendrix" target="roy orbison">
+      <data key="d0">0.44975057138669317</data>
+    </edge>
+    <edge source="jimi hendrix" target="pink floyd">
+      <data key="d0">0.5183261934322394</data>
+    </edge>
+    <edge source="jimi hendrix" target="skid row (american band)|skid row">
+      <data key="d0">0.6207842683683658</data>
+    </edge>
+    <edge source="jimi hendrix" target="slade">
+      <data key="d0">0.42551112261707047</data>
+    </edge>
+    <edge source="jimi hendrix" target="sonic youth">
+      <data key="d0">0.5528564457199869</data>
+    </edge>
+    <edge source="jimi hendrix" target="rod stewart">
+      <data key="d0">0.5270171647517679</data>
+    </edge>
+    <edge source="jimi hendrix" target="thin lizzy">
+      <data key="d0">0.5430320672400589</data>
+    </edge>
+    <edge source="jimi hendrix" target="stevie ray vaughan|stevie ray vaughan and double trouble">
+      <data key="d0">0.5933395741690436</data>
+    </edge>
+    <edge source="jimi hendrix" target="zz top">
+      <data key="d0">0.6050839571740492</data>
+    </edge>
+    <edge source="bullet for my valentine" target="breaking benjamin">
+      <data key="d0">0.540250819918954</data>
+    </edge>
+    <edge source="bullet for my valentine" target="slayer">
+      <data key="d0">0.39734450089124396</data>
+    </edge>
+    <edge source="bullet for my valentine" target="rob zombie">
+      <data key="d0">0.3999540062817404</data>
+    </edge>
+    <edge source="bullet for my valentine" target="limp bizkit">
+      <data key="d0">0.4872812697491409</data>
+    </edge>
+    <edge source="bullet for my valentine" target="judas priest">
+      <data key="d0">0.4723915682222244</data>
+    </edge>
+    <edge source="bullet for my valentine" target="megadeth">
+      <data key="d0">0.3939659889523587</data>
+    </edge>
+    <edge source="bullet for my valentine" target="sepultura">
+      <data key="d0">0.3479533751832935</data>
+    </edge>
+    <edge source="bullet for my valentine" target="led zeppelin">
+      <data key="d0">0.8426270496236858</data>
+    </edge>
+    <edge source="bullet for my valentine" target="bruce springsteen">
+      <data key="d0">0.8976596426630228</data>
+    </edge>
+    <edge source="jefferson starship" target="canned heat">
+      <data key="d0">0.5382265001852168</data>
+    </edge>
+    <edge source="jefferson starship" target="jefferson airplane">
+      <data key="d0">0.5044554539271027</data>
+    </edge>
+    <edge source="jefferson starship" target="journey (band)|journey">
+      <data key="d0">0.8737474241913515</data>
+    </edge>
+    <edge source="catfish and the bottlemen" target="green day">
+      <data key="d0">0.6907952508265003</data>
+    </edge>
+    <edge source="catfish and the bottlemen" target="highly suspect">
+      <data key="d0">0.33595882357687</data>
+    </edge>
+    <edge source="toto (band)|toto" target="april wine">
+      <data key="d0">0.521760627534614</data>
+    </edge>
+    <edge source="toto (band)|toto" target="christopher cross">
+      <data key="d0">0.29662445804482696</data>
+    </edge>
+    <edge source="toto (band)|toto" target="don henley">
+      <data key="d0">0.5663852962264888</data>
+    </edge>
+    <edge source="toto (band)|toto" target="journey (band)|journey">
+      <data key="d0">0.5211251606311325</data>
+    </edge>
+    <edge source="toto (band)|toto" target="huey lewis and the news">
+      <data key="d0">0.3773446558636767</data>
+    </edge>
+    <edge source="toto (band)|toto" target="pink floyd">
+      <data key="d0">0.760777802458751</data>
+    </edge>
+    <edge source="toto (band)|toto" target="steely dan">
+      <data key="d0">0.3651235196512044</data>
+    </edge>
+    <edge source="small faces" target="faces (band)|faces">
+      <data key="d0">0.24433262495563746</data>
+    </edge>
+    <edge source="small faces" target="the kinks">
+      <data key="d0">0.47644333981093867</data>
+    </edge>
+    <edge source="small faces" target="the mamas &amp; the papas">
+      <data key="d0">0.4312130696778018</data>
+    </edge>
+    <edge source="small faces" target="rod stewart">
+      <data key="d0">0.47319335430942755</data>
+    </edge>
+    <edge source="highly suspect" target="10 years (band)|10 years">
+      <data key="d0">0.40677194827601426</data>
+    </edge>
+    <edge source="highly suspect" target="pink floyd">
+      <data key="d0">0.8083377473370951</data>
+    </edge>
+    <edge source="slade" target="beastie boys">
+      <data key="d0">0.7394530473771318</data>
+    </edge>
+    <edge source="slade" target="chuck berry">
+      <data key="d0">0.5072731658771228</data>
+    </edge>
+    <edge source="slade" target="the hollies">
+      <data key="d0">0.5547267366345601</data>
+    </edge>
+    <edge source="slade" target="the kinks">
+      <data key="d0">0.45901934470697847</data>
+    </edge>
+    <edge source="slade" target="kiss (band)|kiss">
+      <data key="d0">0.5136457416497346</data>
+    </edge>
+    <edge source="slade" target="little richard">
+      <data key="d0">0.39784705443249535</data>
+    </edge>
+    <edge source="slade" target="ted nugent">
+      <data key="d0">0.5154026122337356</data>
+    </edge>
+    <edge source="slade" target="the rolling stones">
+      <data key="d0">0.39657696874493575</data>
+    </edge>
+    <edge source="slade" target="zz top">
+      <data key="d0">0.4755664858717932</data>
+    </edge>
+    <edge source="slade" target="frank zappa">
+      <data key="d0">0.4810715141917572</data>
+    </edge>
+    <edge source="slade" target="the sweet|sweet">
+      <data key="d0">0.3247177994898971</data>
+    </edge>
+    <edge source="slade" target="thin lizzy">
+      <data key="d0">0.42293061678843913</data>
+    </edge>
+    <edge source="slade" target="rob zombie">
+      <data key="d0">0.4744417734746458</data>
+    </edge>
+    <edge source="modest mouse" target="death cab for cutie">
+      <data key="d0">0.25799325053879174</data>
+    </edge>
+    <edge source="kaiser chiefs" target="the boxtones">
+      <data key="d0">0.19421411798753552</data>
+    </edge>
+    <edge source="kaiser chiefs" target="green day">
+      <data key="d0">0.7401747525660292</data>
+    </edge>
+    <edge source="kaiser chiefs" target="led zeppelin">
+      <data key="d0">0.8206155124579629</data>
+    </edge>
+    <edge source="kaiser chiefs" target="u2">
+      <data key="d0">0.5519376540394945</data>
+    </edge>
+    <edge source="kaiser chiefs" target="muse (band)|muse">
+      <data key="d0">0.17719254363646242</data>
+    </edge>
+    <edge source="tenacious d" target="beastie boys">
+      <data key="d0">0.5038813187202459</data>
+    </edge>
+    <edge source="tenacious d" target="good charlotte">
+      <data key="d0">0.6036165995256189</data>
+    </edge>
+    <edge source="tenacious d" target="jimmy eat world">
+      <data key="d0">0.5438991015903745</data>
+    </edge>
+    <edge source="tenacious d" target="judas priest">
+      <data key="d0">0.5835074612540531</data>
+    </edge>
+    <edge source="tenacious d" target="led zeppelin">
+      <data key="d0">0.5681093773148355</data>
+    </edge>
+    <edge source="tenacious d" target="slayer">
+      <data key="d0">0.6206277211027447</data>
+    </edge>
+    <edge source="tenacious d" target="sum 41">
+      <data key="d0">0.22320438128739906</data>
+    </edge>
+    <edge source="vampire weekend" target="bruce springsteen">
+      <data key="d0">0.7959181113228426</data>
+    </edge>
+    <edge source="limp bizkit" target="anthrax (american band)|anthrax">
+      <data key="d0">0.5605357151436767</data>
+    </edge>
+    <edge source="limp bizkit" target="beastie boys">
+      <data key="d0">0.5409440832696206</data>
+    </edge>
+    <edge source="limp bizkit" target="creed (band)|creed">
+      <data key="d0">0.4586403060125507</data>
+    </edge>
+    <edge source="limp bizkit" target="dave matthews band">
+      <data key="d0">0.6804601815210181</data>
+    </edge>
+    <edge source="limp bizkit" target="kiss (band)|kiss">
+      <data key="d0">0.6188655480212262</data>
+    </edge>
+    <edge source="limp bizkit" target="staind">
+      <data key="d0">0.44439780611728297</data>
+    </edge>
+    <edge source="limp bizkit" target="sepultura">
+      <data key="d0">0.4509660166691205</data>
+    </edge>
+    <edge source="limp bizkit" target="slayer">
+      <data key="d0">0.49603337247612456</data>
+    </edge>
+    <edge source="the guess who" target="april wine">
+      <data key="d0">0.6804456563903558</data>
+    </edge>
+    <edge source="tom petty and the heartbreakers" target="the allman brothers band">
+      <data key="d0">0.4649657113851696</data>
+    </edge>
+    <edge source="tom petty and the heartbreakers" target="crowded house">
+      <data key="d0">0.4915190384026038</data>
+    </edge>
+    <edge source="tom petty and the heartbreakers" target="green day">
+      <data key="d0">0.6921022997597654</data>
+    </edge>
+    <edge source="tom petty and the heartbreakers" target="don henley">
+      <data key="d0">0.5031758616967242</data>
+    </edge>
+    <edge source="tom petty and the heartbreakers" target="bruce springsteen">
+      <data key="d0">0.6518503775343972</data>
+    </edge>
+    <edge source="the cars" target="the all-american rejects">
+      <data key="d0">0.40532255738110934</data>
+    </edge>
+    <edge source="the cars" target="the killers">
+      <data key="d0">0.48262475862049925</data>
+    </edge>
+    <edge source="the cars" target="billy squier">
+      <data key="d0">0.4900770536789919</data>
+    </edge>
+    <edge source="genesis (band)|genesis" target="frank zappa">
+      <data key="d0">0.4928180654101987</data>
+    </edge>
+    <edge source="genesis (band)|genesis" target="mike and the mechanics|mike + the mechanics">
+      <data key="d0">0.9970876488950687</data>
+    </edge>
+    <edge source="genesis (band)|genesis" target="pink floyd">
+      <data key="d0">0.5254230048760207</data>
+    </edge>
+    <edge source="genesis (band)|genesis" target="don henley">
+      <data key="d0">0.41904724513809466</data>
+    </edge>
+    <edge source="genesis (band)|genesis" target="keane (band)|keane">
+      <data key="d0">0.4505055447271791</data>
+    </edge>
+    <edge source="simple plan" target="good charlotte">
+      <data key="d0">0.3808119156146317</data>
+    </edge>
+    <edge source="simple plan" target="green day">
+      <data key="d0">0.6726093826246973</data>
+    </edge>
+    <edge source="simple plan" target="sum 41">
+      <data key="d0">0.4667739207623003</data>
+    </edge>
+    <edge source="steely dan" target="the band">
+      <data key="d0">0.6041368867072257</data>
+    </edge>
+    <edge source="steely dan" target="christopher cross">
+      <data key="d0">0.339218121974212</data>
+    </edge>
+    <edge source="steely dan" target="mike and the mechanics|mike + the mechanics">
+      <data key="d0">0.0</data>
+    </edge>
+    <edge source="steely dan" target="the rolling stones">
+      <data key="d0">0.8364663069371898</data>
+    </edge>
+    <edge source="steely dan" target="steve miller band">
+      <data key="d0">0.40107902425870745</data>
+    </edge>
+    <edge source="faces (band)|faces" target="the rolling stones">
+      <data key="d0">0.8826822510906414</data>
+    </edge>
+    <edge source="faces (band)|faces" target="rod stewart">
+      <data key="d0">0.47484880790859296</data>
+    </edge>
+    <edge source="system of a down" target="bush (british band)|bush">
+      <data key="d0">0.5007113905869167</data>
+    </edge>
+    <edge source="system of a down" target="the kinks">
+      <data key="d0">0.6798575224184606</data>
+    </edge>
+    <edge source="system of a down" target="kiss (band)|kiss">
+      <data key="d0">0.5018862096797981</data>
+    </edge>
+    <edge source="system of a down" target="led zeppelin">
+      <data key="d0">0.4421005852594566</data>
+    </edge>
+    <edge source="system of a down" target="sepultura">
+      <data key="d0">0.5135054845144055</data>
+    </edge>
+    <edge source="system of a down" target="slayer">
+      <data key="d0">0.5312215201924158</data>
+    </edge>
+    <edge source="system of a down" target="frank zappa">
+      <data key="d0">0.6965000996786261</data>
+    </edge>
+    <edge source="chubby checker" target="roy orbison">
+      <data key="d0">0.42132025144854024</data>
+    </edge>
+    <edge source="thin lizzy" target="anthrax (american band)|anthrax">
+      <data key="d0">0.6509743861346204</data>
+    </edge>
+    <edge source="thin lizzy" target="judas priest">
+      <data key="d0">0.5703735131932467</data>
+    </edge>
+    <edge source="thin lizzy" target="kiss (band)|kiss">
+      <data key="d0">0.5719239664471337</data>
+    </edge>
+    <edge source="thin lizzy" target="huey lewis and the news">
+      <data key="d0">0.7886612024766648</data>
+    </edge>
+    <edge source="thin lizzy" target="mot\u00f6rhead">
+      <data key="d0">0.7160265093519844</data>
+    </edge>
+    <edge source="thin lizzy" target="ted nugent">
+      <data key="d0">0.5071458543088547</data>
+    </edge>
+    <edge source="thin lizzy" target="pink floyd">
+      <data key="d0">0.5446370041931223</data>
+    </edge>
+    <edge source="thin lizzy" target="bob seger|bob seger &amp; the silver bullet band">
+      <data key="d0">0.45424189233838086</data>
+    </edge>
+    <edge source="thin lizzy" target="bruce springsteen">
+      <data key="d0">0.5436359926926724</data>
+    </edge>
+    <edge source="thin lizzy" target="rod stewart">
+      <data key="d0">0.6531977668842388</data>
+    </edge>
+    <edge source="thin lizzy" target="u2">
+      <data key="d0">0.6087839812117932</data>
+    </edge>
+    <edge source="no doubt" target="bush (british band)|bush">
+      <data key="d0">0.6619440085453636</data>
+    </edge>
+    <edge source="no doubt" target="good charlotte">
+      <data key="d0">0.5309083789621079</data>
+    </edge>
+    <edge source="no doubt" target="panic! at the disco">
+      <data key="d0">0.4515829118612398</data>
+    </edge>
+    <edge source="no doubt" target="bruce springsteen">
+      <data key="d0">0.7193305162328949</data>
+    </edge>
+    <edge source="no doubt" target="sublime with rome">
+      <data key="d0">0.7810752373359182</data>
+    </edge>
+    <edge source="mot\u00f6rhead" target="accept (band)|accept">
+      <data key="d0">0.3757181113824012</data>
+    </edge>
+    <edge source="mot\u00f6rhead" target="anthrax (american band)|anthrax">
+      <data key="d0">0.5092317733937688</data>
+    </edge>
+    <edge source="mot\u00f6rhead" target="judas priest">
+      <data key="d0">0.5745280387484556</data>
+    </edge>
+    <edge source="mot\u00f6rhead" target="little richard">
+      <data key="d0">0.7277934474173985</data>
+    </edge>
+    <edge source="mot\u00f6rhead" target="megadeth">
+      <data key="d0">0.5917121311966058</data>
+    </edge>
+    <edge source="mot\u00f6rhead" target="ted nugent">
+      <data key="d0">0.5969538626977811</data>
+    </edge>
+    <edge source="mot\u00f6rhead" target="sepultura">
+      <data key="d0">0.39658236941188985</data>
+    </edge>
+    <edge source="mot\u00f6rhead" target="slayer">
+      <data key="d0">0.49288406651097283</data>
+    </edge>
+    <edge source="interpol (band)|interpol" target="u2">
+      <data key="d0">0.8449556185740867</data>
+    </edge>
+    <edge source="bruce springsteen" target="chuck berry">
+      <data key="d0">0.6491331824286661</data>
+    </edge>
+    <edge source="bruce springsteen" target="dave matthews band">
+      <data key="d0">0.7795414905556307</data>
+    </edge>
+    <edge source="bruce springsteen" target="don henley">
+      <data key="d0">0.7157750236006155</data>
+    </edge>
+    <edge source="bruce springsteen" target="the hollies">
+      <data key="d0">0.6703977843120006</data>
+    </edge>
+    <edge source="bruce springsteen" target="the killers">
+      <data key="d0">0.7412948477680935</data>
+    </edge>
+    <edge source="bruce springsteen" target="roy orbison">
+      <data key="d0">0.6413363467501698</data>
+    </edge>
+    <edge source="bruce springsteen" target="the rolling stones">
+      <data key="d0">0.4940970377166044</data>
+    </edge>
+    <edge source="bruce springsteen" target="bob seger|bob seger &amp; the silver bullet band">
+      <data key="d0">0.5457581076616191</data>
+    </edge>
+    <edge source="bruce springsteen" target="sting (musician)|sting">
+      <data key="d0">0.40297544831442145</data>
+    </edge>
+    <edge source="bruce springsteen" target="u2">
+      <data key="d0">0.6336084951119716</data>
+    </edge>
+    <edge source="death cab for cutie" target="the band">
+      <data key="d0">0.7837598013491767</data>
+    </edge>
+    <edge source="death cab for cutie" target="panic! at the disco">
+      <data key="d0">0.4992078735436527</data>
+    </edge>
+    <edge source="creed (band)|creed" target="alter bridge">
+      <data key="d0">0.43242684383106833</data>
+    </edge>
+    <edge source="creed (band)|creed" target="live (band)|live">
+      <data key="d0">0.6428238605866867</data>
+    </edge>
+    <edge source="creed (band)|creed" target="u2">
+      <data key="d0">0.8417325409243394</data>
+    </edge>
+    <edge source="creed (band)|creed" target="led zeppelin">
+      <data key="d0">0.8317419794328927</data>
+    </edge>
+    <edge source="creed (band)|creed" target="slayer">
+      <data key="d0">0.45600216900120016</data>
+    </edge>
+    <edge source="creed (band)|creed" target="days of the new">
+      <data key="d0">0.586417503316085</data>
+    </edge>
+    <edge source="creed (band)|creed" target="hinder">
+      <data key="d0">0.3843527978563531</data>
+    </edge>
+    <edge source="creed (band)|creed" target="staind">
+      <data key="d0">0.2957216919936626</data>
+    </edge>
+    <edge source="the outfield" target="journey (band)|journey">
+      <data key="d0">0.5587436750831718</data>
+    </edge>
+    <edge source="sepultura" target="anthrax (american band)|anthrax">
+      <data key="d0">0.3462355739044096</data>
+    </edge>
+    <edge source="sepultura" target="drowning pool">
+      <data key="d0">0.3752714687251858</data>
+    </edge>
+    <edge source="sepultura" target="judas priest">
+      <data key="d0">0.3560647171345407</data>
+    </edge>
+    <edge source="sepultura" target="kiss (band)|kiss">
+      <data key="d0">0.41458930966958774</data>
+    </edge>
+    <edge source="sepultura" target="led zeppelin">
+      <data key="d0">0.4537131583049596</data>
+    </edge>
+    <edge source="sepultura" target="megadeth">
+      <data key="d0">0.3644458902530888</data>
+    </edge>
+    <edge source="sepultura" target="slayer">
+      <data key="d0">0.3667298946860109</data>
+    </edge>
+    <edge source="sepultura" target="u2">
+      <data key="d0">0.9188821877354001</data>
+    </edge>
+    <edge source="sepultura" target="staind">
+      <data key="d0">0.5563479592428718</data>
+    </edge>
+    <edge source="sepultura" target="rob zombie">
+      <data key="d0">0.4391528201322239</data>
+    </edge>
+    <edge source="judas priest" target="accept (band)|accept">
+      <data key="d0">0.5521042870242526</data>
+    </edge>
+    <edge source="judas priest" target="anthrax (american band)|anthrax">
+      <data key="d0">0.43617574615383714</data>
+    </edge>
+    <edge source="judas priest" target="drowning pool">
+      <data key="d0">0.5336632291061782</data>
+    </edge>
+    <edge source="judas priest" target="great white">
+      <data key="d0">0.6937635006999452</data>
+    </edge>
+    <edge source="judas priest" target="journey (band)|journey">
+      <data key="d0">0.5627729921982833</data>
+    </edge>
+    <edge source="judas priest" target="led zeppelin">
+      <data key="d0">0.6848244029771444</data>
+    </edge>
+    <edge source="judas priest" target="pink floyd">
+      <data key="d0">0.7067709659571664</data>
+    </edge>
+    <edge source="judas priest" target="megadeth">
+      <data key="d0">0.33669515081156176</data>
+    </edge>
+    <edge source="judas priest" target="kiss (band)|kiss">
+      <data key="d0">0.5235855706559087</data>
+    </edge>
+    <edge source="judas priest" target="little richard">
+      <data key="d0">0.7089913090971343</data>
+    </edge>
+    <edge source="judas priest" target="skid row (american band)|skid row">
+      <data key="d0">0.5044927535096302</data>
+    </edge>
+    <edge source="judas priest" target="slayer">
+      <data key="d0">0.37674057832316865</data>
+    </edge>
+    <edge source="judas priest" target="sum 41">
+      <data key="d0">0.6246958424476828</data>
+    </edge>
+    <edge source="judas priest" target="rob zombie">
+      <data key="d0">0.5091233318112428</data>
+    </edge>
+    <edge source="april wine" target="the rolling stones">
+      <data key="d0">0.9329488117091957</data>
+    </edge>
+    <edge source="april wine" target="journey (band)|journey">
+      <data key="d0">0.5277039900658635</data>
+    </edge>
+    <edge source="april wine" target="eddie money">
+      <data key="d0">0.5157350304512944</data>
+    </edge>
+    <edge source="men at work" target="crowded house">
+      <data key="d0">0.6004471574052137</data>
+    </edge>
+    <edge source="men at work" target="inxs">
+      <data key="d0">0.8677183814977409</data>
+    </edge>
+    <edge source="men at work" target="frank zappa">
+      <data key="d0">0.0</data>
+    </edge>
+    <edge source="stevie ray vaughan|stevie ray vaughan and double trouble" target="chuck berry">
+      <data key="d0">0.6292954801793296</data>
+    </edge>
+    <edge source="stevie ray vaughan|stevie ray vaughan and double trouble" target="the kinks">
+      <data key="d0">0.5795966117391858</data>
+    </edge>
+    <edge source="stevie ray vaughan|stevie ray vaughan and double trouble" target="ted nugent">
+      <data key="d0">0.5751463270561836</data>
+    </edge>
+    <edge source="stevie ray vaughan|stevie ray vaughan and double trouble" target="zz top">
+      <data key="d0">0.6019225923543643</data>
+    </edge>
+    <edge source="the killers" target="green day">
+      <data key="d0">0.519346388061283</data>
+    </edge>
+    <edge source="the killers" target="u2">
+      <data key="d0">0.7170211928324718</data>
+    </edge>
+    <edge source="the killers" target="travis (band)|travis">
+      <data key="d0">0.6071557704884311</data>
+    </edge>
+    <edge source="little richard" target="chuck berry">
+      <data key="d0">0.40421069833278844</data>
+    </edge>
+    <edge source="little richard" target="canned heat">
+      <data key="d0">0.7623643846966504</data>
+    </edge>
+    <edge source="little richard" target="the kinks">
+      <data key="d0">0.5333990591377646</data>
+    </edge>
+    <edge source="little richard" target="led zeppelin">
+      <data key="d0">0.5642420909116239</data>
+    </edge>
+    <edge source="little richard" target="john lennon">
+      <data key="d0">0.5079800033241513</data>
+    </edge>
+    <edge source="little richard" target="the rolling stones">
+      <data key="d0">0.6864576271094657</data>
+    </edge>
+    <edge source="little richard" target="u2">
+      <data key="d0">0.738574990838835</data>
+    </edge>
+    <edge source="little richard" target="living colour">
+      <data key="d0">0.6944282380783438</data>
+    </edge>
+    <edge source="little richard" target="rod stewart">
+      <data key="d0">0.4306489572443979</data>
+    </edge>
+    <edge source="little richard" target="ted nugent">
+      <data key="d0">0.5449398003323462</data>
+    </edge>
+    <edge source="little richard" target="iggy pop">
+      <data key="d0">0.5932900887129672</data>
+    </edge>
+    <edge source="little richard" target="bob seger|bob seger &amp; the silver bullet band">
+      <data key="d0">0.6282508442347614</data>
+    </edge>
+    <edge source="thirty seconds to mars" target="kiss (band)|kiss">
+      <data key="d0">0.8027617850488726</data>
+    </edge>
+    <edge source="thirty seconds to mars" target="muse (band)|muse">
+      <data key="d0">0.4659207216296817</data>
+    </edge>
+    <edge source="thirty seconds to mars" target="our lady peace">
+      <data key="d0">0.3805973950323913</data>
+    </edge>
+    <edge source="thirty seconds to mars" target="pink floyd">
+      <data key="d0">0.699308863408198</data>
+    </edge>
+    <edge source="thirty seconds to mars" target="starset">
+      <data key="d0">0.0</data>
+    </edge>
+    <edge source="thirty seconds to mars" target="the used">
+      <data key="d0">0.33038690915296254</data>
+    </edge>
+    <edge source="thirty seconds to mars" target="u2">
+      <data key="d0">0.795092708096543</data>
+    </edge>
+    <edge source="thirty seconds to mars" target="thousand foot krutch">
+      <data key="d0">0.7070676817147499</data>
+    </edge>
+    <edge source="manfred mann" target="the kinks">
+      <data key="d0">0.8797819666690085</data>
+    </edge>
+    <edge source="manfred mann" target="sting (musician)|sting">
+      <data key="d0">0.7421010239803556</data>
+    </edge>
+    <edge source="muse (band)|muse" target="led zeppelin">
+      <data key="d0">0.6903995872862239</data>
+    </edge>
+    <edge source="muse (band)|muse" target="starset">
+      <data key="d0">0.575347016188003</data>
+    </edge>
+    <edge source="staind" target="breaking benjamin">
+      <data key="d0">0.3406881760256488</data>
+    </edge>
+    <edge source="staind" target="flyleaf (band)|flyleaf">
+      <data key="d0">0.80027625541981</data>
+    </edge>
+    <edge source="staind" target="kiss (band)|kiss">
+      <data key="d0">0.6034053184027439</data>
+    </edge>
+    <edge source="staind" target="led zeppelin">
+      <data key="d0">0.5533604165318977</data>
+    </edge>
+    <edge source="staind" target="pink floyd">
+      <data key="d0">0.5928004867320802</data>
+    </edge>
+    <edge source="staind" target="slayer">
+      <data key="d0">0.5509221963022402</data>
+    </edge>
+    <edge source="don henley" target="pink floyd">
+      <data key="d0">0.7832917047374505</data>
+    </edge>
+    <edge source="don henley" target="sting (musician)|sting">
+      <data key="d0">0.4625687146188937</data>
+    </edge>
+    <edge source="don henley" target="bob seger|bob seger &amp; the silver bullet band">
+      <data key="d0">0.4696983686883467</data>
+    </edge>
+    <edge source="ted nugent" target="anthrax (american band)|anthrax">
+      <data key="d0">0.5578499319974253</data>
+    </edge>
+    <edge source="ted nugent" target="chuck berry">
+      <data key="d0">0.6452427918231265</data>
+    </edge>
+    <edge source="ted nugent" target="damn yankees (band)|damn yankees">
+      <data key="d0">0.7433369623556092</data>
+    </edge>
+    <edge source="ted nugent" target="frank zappa">
+      <data key="d0">0.6598388039500778</data>
+    </edge>
+    <edge source="ted nugent" target="skid row (american band)|skid row">
+      <data key="d0">0.48041858575172713</data>
+    </edge>
+    <edge source="ted nugent" target="slayer">
+      <data key="d0">0.4902865853920262</data>
+    </edge>
+    <edge source="the rolling stones" target="the allman brothers band">
+      <data key="d0">0.7849581703528389</data>
+    </edge>
+    <edge source="the rolling stones" target="anthrax (american band)|anthrax">
+      <data key="d0">0.9550877237981276</data>
+    </edge>
+    <edge source="the rolling stones" target="the band">
+      <data key="d0">0.7158661908631552</data>
+    </edge>
+    <edge source="the rolling stones" target="chuck berry">
+      <data key="d0">0.7012742900791751</data>
+    </edge>
+    <edge source="the rolling stones" target="fall out boy">
+      <data key="d0">0.9166418290108299</data>
+    </edge>
+    <edge source="the rolling stones" target="hinder">
+      <data key="d0">0.9497451680088347</data>
+    </edge>
+    <edge source="the rolling stones" target="the hollies">
+      <data key="d0">0.867943448300062</data>
+    </edge>
+    <edge source="the rolling stones" target="inxs">
+      <data key="d0">0.779884893898964</data>
+    </edge>
+    <edge source="the rolling stones" target="jefferson airplane">
+      <data key="d0">0.8960980490486586</data>
+    </edge>
+    <edge source="the rolling stones" target="the kinks">
+      <data key="d0">0.750040559761531</data>
+    </edge>
+    <edge source="the rolling stones" target="led zeppelin">
+      <data key="d0">0.631631594923675</data>
+    </edge>
+    <edge source="the rolling stones" target="john lennon">
+      <data key="d0">0.625740987571326</data>
+    </edge>
+    <edge source="the rolling stones" target="living colour">
+      <data key="d0">0.8785099380964783</data>
+    </edge>
+    <edge source="the rolling stones" target="roy orbison">
+      <data key="d0">0.7779397970065131</data>
+    </edge>
+    <edge source="the rolling stones" target="rod stewart">
+      <data key="d0">0.43099020477602157</data>
+    </edge>
+    <edge source="the rolling stones" target="sting (musician)|sting">
+      <data key="d0">0.4082926460130568</data>
+    </edge>
+    <edge source="the rolling stones" target="shakin' stevens">
+      <data key="d0">0.9931292894388443</data>
+    </edge>
+    <edge source="the rolling stones" target="sonic youth">
+      <data key="d0">0.47607469319218376</data>
+    </edge>
+    <edge source="the rolling stones" target="george thorogood|george thorogood and the destroyers">
+      <data key="d0">0.9861851921575531</data>
+    </edge>
+    <edge source="the rolling stones" target="u2">
+      <data key="d0">0.5048003166042299</data>
+    </edge>
+    <edge source="steve miller band" target="pat benatar">
+      <data key="d0">0.4100388200436774</data>
+    </edge>
+    <edge source="steve miller band" target="chuck berry">
+      <data key="d0">0.9224692229406598</data>
+    </edge>
+    <edge source="steve miller band" target="journey (band)|journey">
+      <data key="d0">0.7117360300916038</data>
+    </edge>
+    <edge source="blue october" target="u2">
+      <data key="d0">0.84391004752705</data>
+    </edge>
+    <edge source="blue october" target="dave matthews band">
+      <data key="d0">0.2949333661305119</data>
+    </edge>
+    <edge source="harry chapin" target="pat benatar">
+      <data key="d0">0.6776831071655784</data>
+    </edge>
+    <edge source="living colour" target="anthrax (american band)|anthrax">
+      <data key="d0">0.7379915331885722</data>
+    </edge>
+    <edge source="living colour" target="frank zappa">
+      <data key="d0">0.4813817922608987</data>
+    </edge>
+    <edge source="green day" target="fall out boy">
+      <data key="d0">0.5332053115968175</data>
+    </edge>
+    <edge source="green day" target="the go-go's">
+      <data key="d0">0.6594241990820913</data>
+    </edge>
+    <edge source="green day" target="good charlotte">
+      <data key="d0">0.6800860505135649</data>
+    </edge>
+    <edge source="green day" target="iggy pop">
+      <data key="d0">0.5803854223089252</data>
+    </edge>
+    <edge source="green day" target="the kinks">
+      <data key="d0">0.6503653493249011</data>
+    </edge>
+    <edge source="green day" target="u2">
+      <data key="d0">0.6719316625596706</data>
+    </edge>
+    <edge source="green day" target="sum 41">
+      <data key="d0">0.5633027152150389</data>
+    </edge>
+    <edge source="green day" target="john lennon">
+      <data key="d0">0.6745847291832993</data>
+    </edge>
+    <edge source="green day" target="jimmy eat world">
+      <data key="d0">0.5984475886728466</data>
+    </edge>
+    <edge source="green day" target="panic! at the disco">
+      <data key="d0">0.5697636954820392</data>
+    </edge>
+    <edge source="roy orbison" target="jefferson airplane">
+      <data key="d0">0.3857523380342516</data>
+    </edge>
+    <edge source="roy orbison" target="led zeppelin">
+      <data key="d0">0.5841429336915498</data>
+    </edge>
+    <edge source="roy orbison" target="john lennon">
+      <data key="d0">0.4310886775687519</data>
+    </edge>
+    <edge source="roy orbison" target="u2">
+      <data key="d0">0.7935657856210687</data>
+    </edge>
+    <edge source="the band" target="the allman brothers band">
+      <data key="d0">0.38000132425170996</data>
+    </edge>
+    <edge source="the band" target="pink floyd">
+      <data key="d0">0.6899667598947401</data>
+    </edge>
+    <edge source="the band" target="zz top">
+      <data key="d0">0.6019448097989126</data>
+    </edge>
+    <edge source="the band" target="led zeppelin">
+      <data key="d0">0.8616540221711391</data>
+    </edge>
+    <edge source="10 years (band)|10 years" target="breaking benjamin">
+      <data key="d0">0.5586508701238879</data>
+    </edge>
+    <edge source="10 years (band)|10 years" target="thousand foot krutch">
+      <data key="d0">0.3620583223432232</data>
+    </edge>
+    <edge source="10 years (band)|10 years" target="flyleaf (band)|flyleaf">
+      <data key="d0">0.2423667956366321</data>
+    </edge>
+    <edge source="led zeppelin" target="the allman brothers band">
+      <data key="d0">0.8453391452150338</data>
+    </edge>
+    <edge source="led zeppelin" target="alter bridge">
+      <data key="d0">0.9686123800945551</data>
+    </edge>
+    <edge source="led zeppelin" target="bush (british band)|bush">
+      <data key="d0">0.776616658878835</data>
+    </edge>
+    <edge source="led zeppelin" target="drowning pool">
+      <data key="d0">0.8879170917941779</data>
+    </edge>
+    <edge source="led zeppelin" target="hinder">
+      <data key="d0">0.7904588975231629</data>
+    </edge>
+    <edge source="led zeppelin" target="inxs">
+      <data key="d0">0.7978728073746331</data>
+    </edge>
+    <edge source="led zeppelin" target="megadeth">
+      <data key="d0">0.46782450538533327</data>
+    </edge>
+    <edge source="led zeppelin" target="skid row (american band)|skid row">
+      <data key="d0">0.561827855307442</data>
+    </edge>
+    <edge source="led zeppelin" target="our lady peace">
+      <data key="d0">0.7068396228071877</data>
+    </edge>
+    <edge source="led zeppelin" target="the pretty reckless">
+      <data key="d0">0.4777653772693049</data>
+    </edge>
+    <edge source="led zeppelin" target="silverchair">
+      <data key="d0">0.5492243255194631</data>
+    </edge>
+    <edge source="led zeppelin" target="slayer">
+      <data key="d0">0.5167774988949616</data>
+    </edge>
+    <edge source="led zeppelin" target="starset">
+      <data key="d0">0.9459729349845198</data>
+    </edge>
+    <edge source="led zeppelin" target="u2">
+      <data key="d0">0.5677209409661419</data>
+    </edge>
+    <edge source="led zeppelin" target="frank zappa">
+      <data key="d0">0.6622245637465801</data>
+    </edge>
+    <edge source="dave matthews band" target="days of the new">
+      <data key="d0">0.47032274554114883</data>
+    </edge>
+    <edge source="bush (british band)|bush" target="breaking benjamin">
+      <data key="d0">0.5695391770070355</data>
+    </edge>
+    <edge source="bush (british band)|bush" target="inxs">
+      <data key="d0">0.6676747929751671</data>
+    </edge>
+    <edge source="bush (british band)|bush" target="u2">
+      <data key="d0">0.6977471762748872</data>
+    </edge>
+    <edge source="bush (british band)|bush" target="john lennon">
+      <data key="d0">0.6320193830936232</data>
+    </edge>
+    <edge source="bush (british band)|bush" target="our lady peace">
+      <data key="d0">0.5613094404861239</data>
+    </edge>
+    <edge source="bush (british band)|bush" target="hole (band)|hole">
+      <data key="d0">0.4759619217281147</data>
+    </edge>
+    <edge source="bush (british band)|bush" target="sonic youth">
+      <data key="d0">0.5013771674792373</data>
+    </edge>
+    <edge source="bush (british band)|bush" target="hinder">
+      <data key="d0">0.5821605803178784</data>
+    </edge>
+    <edge source="u2" target="beastie boys">
+      <data key="d0">0.7393043396282999</data>
+    </edge>
+    <edge source="u2" target="the cranberries">
+      <data key="d0">0.8363826948943125</data>
+    </edge>
+    <edge source="u2" target="keane (band)|keane">
+      <data key="d0">0.6409626002158779</data>
+    </edge>
+    <edge source="u2" target="pink floyd">
+      <data key="d0">0.597821976937031</data>
+    </edge>
+    <edge source="thousand foot krutch" target="breaking benjamin">
+      <data key="d0">0.8542746868928547</data>
+    </edge>
+    <edge source="thousand foot krutch" target="flyleaf (band)|flyleaf">
+      <data key="d0">0.31432542867893776</data>
+    </edge>
+    <edge source="thousand foot krutch" target="our lady peace">
+      <data key="d0">0.886273530065477</data>
+    </edge>
+    <edge source="thousand foot krutch" target="sum 41">
+      <data key="d0">0.9282937713966414</data>
+    </edge>
+    <edge source="billy squier" target="journey (band)|journey">
+      <data key="d0">0.5026656519084245</data>
+    </edge>
+    <edge source="billy squier" target="kiss (band)|kiss">
+      <data key="d0">0.6765146227172752</data>
+    </edge>
+    <edge source="billy squier" target="iggy pop">
+      <data key="d0">0.7021958403071138</data>
+    </edge>
+    <edge source="great white" target="anthrax (american band)|anthrax">
+      <data key="d0">0.6123396596345607</data>
+    </edge>
+    <edge source="great white" target="kiss (band)|kiss">
+      <data key="d0">0.8584623843983819</data>
+    </edge>
+    <edge source="great white" target="megadeth">
+      <data key="d0">0.6070682193857636</data>
+    </edge>
+    <edge source="great white" target="skid row (american band)|skid row">
+      <data key="d0">0.5011565265290067</data>
+    </edge>
+    <edge source="jefferson airplane" target="canned heat">
+      <data key="d0">0.35326664928164153</data>
+    </edge>
+    <edge source="jefferson airplane" target="frank zappa">
+      <data key="d0">0.49918436263380295</data>
+    </edge>
+    <edge source="jefferson airplane" target="the kinks">
+      <data key="d0">0.507955336654504</data>
+    </edge>
+    <edge source="pink floyd" target="alter bridge">
+      <data key="d0">0.8980935727201332</data>
+    </edge>
+    <edge source="pink floyd" target="inxs">
+      <data key="d0">0.6444181269975036</data>
+    </edge>
+    <edge source="pink floyd" target="john lennon">
+      <data key="d0">0.6072056406559329</data>
+    </edge>
+    <edge source="pink floyd" target="the pretty reckless">
+      <data key="d0">0.4560373466075225</data>
+    </edge>
+    <edge source="pink floyd" target="supertramp">
+      <data key="d0">0.8333349083113747</data>
+    </edge>
+    <edge source="breaking benjamin" target="alter bridge">
+      <data key="d0">0.47053857911124397</data>
+    </edge>
+    <edge source="breaking benjamin" target="flyleaf (band)|flyleaf">
+      <data key="d0">0.7567873252826833</data>
+    </edge>
+    <edge source="breaking benjamin" target="starset">
+      <data key="d0">0.5878328273541578</data>
+    </edge>
+    <edge source="breaking benjamin" target="live (band)|live">
+      <data key="d0">0.6802785655320824</data>
+    </edge>
+    <edge source="breaking benjamin" target="hinder">
+      <data key="d0">0.4859747871717167</data>
+    </edge>
+    <edge source="anthrax (american band)|anthrax" target="accept (band)|accept">
+      <data key="d0">0.47174820224179426</data>
+    </edge>
+    <edge source="anthrax (american band)|anthrax" target="megadeth">
+      <data key="d0">0.3608998817086163</data>
+    </edge>
+    <edge source="anthrax (american band)|anthrax" target="slayer">
+      <data key="d0">0.35648849506097824</data>
+    </edge>
+    <edge source="anthrax (american band)|anthrax" target="kiss (band)|kiss">
+      <data key="d0">0.6334803148875034</data>
+    </edge>
+    <edge source="anthrax (american band)|anthrax" target="journey (band)|journey">
+      <data key="d0">0.8039022646947227</data>
+    </edge>
+    <edge source="anthrax (american band)|anthrax" target="drowning pool">
+      <data key="d0">0.5297324558734161</data>
+    </edge>
+    <edge source="anthrax (american band)|anthrax" target="fall out boy">
+      <data key="d0">0.7153468749691879</data>
+    </edge>
+    <edge source="anthrax (american band)|anthrax" target="sum 41">
+      <data key="d0">0.618114259793868</data>
+    </edge>
+    <edge source="kiss (band)|kiss" target="chuck berry">
+      <data key="d0">0.793395869021164</data>
+    </edge>
+    <edge source="kiss (band)|kiss" target="gin blossoms">
+      <data key="d0">0.7365126543005914</data>
+    </edge>
+    <edge source="kiss (band)|kiss" target="hinder">
+      <data key="d0">0.6388909688974729</data>
+    </edge>
+    <edge source="kiss (band)|kiss" target="skid row (american band)|skid row">
+      <data key="d0">0.5185267309372141</data>
+    </edge>
+    <edge source="kiss (band)|kiss" target="megadeth">
+      <data key="d0">0.42647207987554525</data>
+    </edge>
+    <edge source="kiss (band)|kiss" target="slayer">
+      <data key="d0">0.45360609475527036</data>
+    </edge>
+    <edge source="kiss (band)|kiss" target="sum 41">
+      <data key="d0">0.602717806947374</data>
+    </edge>
+    <edge source="kiss (band)|kiss" target="rob zombie">
+      <data key="d0">0.5603452889821048</data>
+    </edge>
+    <edge source="our lady peace" target="live (band)|live">
+      <data key="d0">0.40787797676090254</data>
+    </edge>
+    <edge source="our lady peace" target="sum 41">
+      <data key="d0">0.47905130856066147</data>
+    </edge>
+    <edge source="beastie boys" target="live (band)|live">
+      <data key="d0">0.692970264786438</data>
+    </edge>
+    <edge source="beastie boys" target="good charlotte">
+      <data key="d0">0.5861793665438316</data>
+    </edge>
+    <edge source="beastie boys" target="jimmy eat world">
+      <data key="d0">0.5697556125586873</data>
+    </edge>
+    <edge source="beastie boys" target="sum 41">
+      <data key="d0">0.5907620646610252</data>
+    </edge>
+    <edge source="good charlotte" target="fall out boy">
+      <data key="d0">0.5004660672888344</data>
+    </edge>
+    <edge source="good charlotte" target="silverchair">
+      <data key="d0">0.6038000788704896</data>
+    </edge>
+    <edge source="good charlotte" target="sum 41">
+      <data key="d0">0.623728205569374</data>
+    </edge>
+    <edge source="good charlotte" target="the used">
+      <data key="d0">0.43702725705859613</data>
+    </edge>
+    <edge source="simon &amp; garfunkel" target="frank zappa">
+      <data key="d0">0.44008819729795734</data>
+    </edge>
+    <edge source="keane (band)|keane" target="fall out boy">
+      <data key="d0">0.5323654682231242</data>
+    </edge>
+    <edge source="keane (band)|keane" target="travis (band)|travis">
+      <data key="d0">0.3240112849682769</data>
+    </edge>
+    <edge source="slayer" target="accept (band)|accept">
+      <data key="d0">0.40823295029394335</data>
+    </edge>
+    <edge source="slayer" target="drowning pool">
+      <data key="d0">0.40722492372786845</data>
+    </edge>
+    <edge source="slayer" target="megadeth">
+      <data key="d0">0.38612147365774274</data>
+    </edge>
+    <edge source="slayer" target="sum 41">
+      <data key="d0">0.6609237926631046</data>
+    </edge>
+    <edge source="slayer" target="rob zombie">
+      <data key="d0">0.49651200251906413</data>
+    </edge>
+    <edge source="the hollies" target="smash mouth">
+      <data key="d0">0.4387227835651074</data>
+    </edge>
+    <edge source="the hollies" target="the sweet|sweet">
+      <data key="d0">0.49240906937607654</data>
+    </edge>
+    <edge source="megadeth" target="accept (band)|accept">
+      <data key="d0">0.45944491910471363</data>
+    </edge>
+    <edge source="megadeth" target="rob zombie">
+      <data key="d0">0.47231863950383546</data>
+    </edge>
+    <edge source="megadeth" target="sum 41">
+      <data key="d0">0.6497482733990794</data>
+    </edge>
+    <edge source="panic! at the disco" target="fall out boy">
+      <data key="d0">0.41371476018126874</data>
+    </edge>
+    <edge source="panic! at the disco" target="the used">
+      <data key="d0">0.33885805532179747</data>
+    </edge>
+    <edge source="skid row (american band)|skid row" target="inxs">
+      <data key="d0">0.48920171725980655</data>
+    </edge>
+    <edge source="the used" target="jimmy eat world">
+      <data key="d0">0.3822778651944394</data>
+    </edge>
+    <edge source="accept (band)|accept" target="damn yankees (band)|damn yankees">
+      <data key="d0">0.780937844112173</data>
+    </edge>
+    <edge source="gin blossoms" target="smash mouth">
+      <data key="d0">0.20640339623347814</data>
+    </edge>
+    <edge source="the sweet|sweet" target="pat benatar">
+      <data key="d0">0.6474970233048349</data>
+    </edge>
+    <edge source="the sweet|sweet" target="journey (band)|journey">
+      <data key="d0">0.47394197217488987</data>
+    </edge>
+    <edge source="the sweet|sweet" target="the kinks">
+      <data key="d0">0.5320269088775782</data>
+    </edge>
+    <edge source="the allman brothers band" target="chuck berry">
+      <data key="d0">0.47396054719219494</data>
+    </edge>
+    <edge source="the allman brothers band" target="zz top">
+      <data key="d0">0.4450776594353628</data>
+    </edge>
+    <edge source="the allman brothers band" target="hinder">
+      <data key="d0">0.5718076106978655</data>
+    </edge>
+    <edge source="frank zappa" target="journey (band)|journey">
+      <data key="d0">0.6346167313831377</data>
+    </edge>
+    <edge source="frank zappa" target="john lennon">
+      <data key="d0">0.5866398230364176</data>
+    </edge>
+    <edge source="frank zappa" target="sting (musician)|sting">
+      <data key="d0">0.4631329766773543</data>
+    </edge>
+    <edge source="the go-go's" target="inxs">
+      <data key="d0">0.4699191562489353</data>
+    </edge>
+    <edge source="sting (musician)|sting" target="rod stewart">
+      <data key="d0">0.5890127629501685</data>
+    </edge>
+    <edge source="sum 41" target="john lennon">
+      <data key="d0">0.7258070275454804</data>
+    </edge>
+    <edge source="sum 41" target="iggy pop">
+      <data key="d0">0.6479241625462516</data>
+    </edge>
+    <edge source="john lennon" target="pat benatar">
+      <data key="d0">0.8721923873523058</data>
+    </edge>
+    <edge source="john lennon" target="chuck berry">
+      <data key="d0">0.5601840330591441</data>
+    </edge>
+    <edge source="john lennon" target="hole (band)|hole">
+      <data key="d0">0.649482198628516</data>
+    </edge>
+    <edge source="john lennon" target="rod stewart">
+      <data key="d0">0.5306158821450035</data>
+    </edge>
+    <edge source="crowded house" target="supertramp">
+      <data key="d0">0.49977428759090947</data>
+    </edge>
+    <edge source="crowded house" target="inxs">
+      <data key="d0">0.5227362181114337</data>
+    </edge>
+    <edge source="inxs" target="the kinks">
+      <data key="d0">0.45666037222647915</data>
+    </edge>
+    <edge source="inxs" target="silverchair">
+      <data key="d0">0.3202343981876814</data>
+    </edge>
+    <edge source="fall out boy" target="the all-american rejects">
+      <data key="d0">0.5349496797693108</data>
+    </edge>
+    <edge source="fall out boy" target="the kinks">
+      <data key="d0">0.5988873804038038</data>
+    </edge>
+    <edge source="the pretty reckless" target="hole (band)|hole">
+      <data key="d0">0.4758188544351797</data>
+    </edge>
+    <edge source="journey (band)|journey" target="pat benatar">
+      <data key="d0">0.6888048699919583</data>
+    </edge>
+    <edge source="sonic youth" target="hole (band)|hole">
+      <data key="d0">0.38736442902416357</data>
+    </edge>
+    <edge source="canned heat" target="chuck berry">
+      <data key="d0">0.7989099396735915</data>
+    </edge>
+    <edge source="rod stewart" target="the kinks">
+      <data key="d0">0.530325291077776</data>
+    </edge>
+    <edge source="smash mouth" target="the kinks">
+      <data key="d0">0.6633875008583543</data>
+    </edge>
+  </graph>
+</graphml>
